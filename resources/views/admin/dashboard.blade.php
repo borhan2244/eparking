@@ -24,7 +24,7 @@
 				<div class="span3 statbox green" onTablet="span6" onDesktop="span3">
 					<div class="boxchart">1,2,6,4,0,8,2,4,5,3,1,7,5</div>
 					<div class="number">123<i class="icon-arrow-up"></i></div>
-					<div class="title">sales</div>
+					<div class="title">XXX</div>
 					<div class="footer">
 						<a href="#"> read full report</a>
 					</div>
@@ -32,7 +32,7 @@
 				<div class="span3 statbox blue noMargin" onTablet="span6" onDesktop="span3">
 					<div class="boxchart">5,6,7,2,0,-4,-2,4,8,2,3,3,2</div>
 					<div class="number">982<i class="icon-arrow-up"></i></div>
-					<div class="title">orders</div>
+					<div class="title">XXX</div>
 					<div class="footer">
 						<a href="#"> read full report</a>
 					</div>
@@ -616,12 +616,12 @@
 				</a>
 				<a class="quick-button metro blue span2">
 					<i class="icon-shopping-cart"></i>
-					<p>Orders</p>
+					<p>XXX</p>
 					<span class="badge">13</span>
 				</a>
 				<a class="quick-button metro green span2">
 					<i class="icon-barcode"></i>
-					<p>Products</p>
+					<p>XXX</p>
 				</a>
 				<a class="quick-button metro pink span2">
 					<i class="icon-envelope"></i>
