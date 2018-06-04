@@ -1,0 +1,9 @@
+1. change to .env file:
+	DB_USERNAME=your_mysql_user_name
+	DB_PASSWORD=your_given_pass
+
+2. create database named epark2.
+
+3. Upload "database-dump.sql" to epark2 database.
+
+4. index.php file is available to /public folder.
