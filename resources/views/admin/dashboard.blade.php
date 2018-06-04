@@ -391,23 +391,23 @@
 					<div class="content">
 						
 						<div class="browserStat big">
-							<img src="img/browser-chrome-big.png" alt="Chrome">
+							<img src="{{asset('backend/img/browser-chrome-big.png')}}" alt="Chrome">
 							<span>34%</span>
 						</div>
 						<div class="browserStat big">
-							<img src="img/browser-firefox-big.png" alt="Firefox">
+							<img src="{{asset('backend/img/browser-firefox-big.png')}}" alt="Firefox">
 							<span>34%</span>
 						</div>
 						<div class="browserStat">
-							<img src="img/browser-ie.png" alt="Internet Explorer">
+							<img src="{{asset('backend/img/browser-ie.png')}}" alt="Internet Explorer">
 							<span>34%</span>
 						</div>
 						<div class="browserStat">
-							<img src="img/browser-safari.png" alt="Safari">
+							<img src="{{asset('backend/img/browser-safari.png')}}" alt="Safari">
 							<span>34%</span>
 						</div>
 						<div class="browserStat">
-							<img src="img/browser-opera.png" alt="Opera">
+							<img src="{{asset('backend/img/browser-opera.png')}}" alt="Opera">
 							<span>34%</span>
 						</div>	
 								
@@ -509,7 +509,7 @@
 						<ul class="dashboard-list metro">
 							<li class="green">
 								<a href="#">
-									<img class="avatar" alt="Dennis Ji" src="img/avatar.jpg">
+									<img class="avatar" alt="Dennis Ji" src="{{asset('backend/img/avatar.jpg')}}">
 								</a>
 								<strong>Name:</strong> Dennis Ji<br>
 								<strong>Since:</strong> Jul 25, 2012 11:09<br>
@@ -517,7 +517,7 @@
 							</li>
 							<li class="yellow">
 								<a href="#">
-									<img class="avatar" alt="Dennis Ji" src="img/avatar.jpg">
+									<img class="avatar" alt="Dennis Ji" src="{{asset('backend/img/avatar.jpg')}}">
 								</a>
 								<strong>Name:</strong> Dennis Ji<br>
 								<strong>Since:</strong> Jul 25, 2012 11:09<br>
@@ -525,7 +525,7 @@
 							</li>
 							<li class="red">
 								<a href="#">
-									<img class="avatar" alt="Dennis Ji" src="img/avatar.jpg">
+									<img class="avatar" alt="Dennis Ji" src="{{asset('backend/img/avatar.jpg')}}">
 								</a>
 								<strong>Name:</strong> Dennis Ji<br>
 								<strong>Since:</strong> Jul 25, 2012 11:09<br>
@@ -533,7 +533,7 @@
 							</li>
 							<li class="blue">
 								<a href="#">
-									<img class="avatar" alt="Dennis Ji" src="img/avatar.jpg">
+									<img class="avatar" alt="Dennis Ji" src="{{asset('backend/img/avatar.jpg')}}">
 								</a>
 								<strong>Name:</strong> Dennis Ji<br>
 								<strong>Since:</strong> Jul 25, 2012 11:09<br>

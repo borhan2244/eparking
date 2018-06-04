@@ -128,6 +128,10 @@
               <li>
                 <a href="{{ route('register') }}">Register</a>
               </li>
+              <li>
+                <a href="#">Download App</a>
+              </li>   
+
             </ul>
             <!-- END RD Navbar Nav -->
           </div>
