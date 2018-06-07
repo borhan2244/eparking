@@ -768,7 +768,7 @@ ul.messages li .message {
 	}
 	
 	.statbox .title {
-		font-size: 16px;
+		font-size: 10px;
 		position: absolute;
 		top: 50px;
 		right: 10px;
@@ -776,7 +776,7 @@ ul.messages li .message {
 
 	.statbox .footer {
 		background: rgba(0,0,0,.1);
-		background-color: #19FFFFFF;
+		/* background-color: #19FFFFFF; */
 		position: absolute;
 		bottom: 0px;
 		left: 0px;

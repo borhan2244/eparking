@@ -2,7 +2,7 @@
 <!-- saved from url=(0046) -->
 <html lang="en" class="wide smoothscroll wow-animation desktop landscape rd-navbar-static-linked"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <!-- Site Title -->
-  <title>Home</title>
+  <title>eParking</title>
   <meta name="format-detection" content="telephone=no">
   <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 
@@ -59,32 +59,7 @@
                 <a href="#">Home</a>
                 <!-- RD Navbar Megamenu -->
                 <ul class="rd-navbar-megamenu">
-                  <li>
-                    <ul class="list">
-                      <li><a href="#">High Profile Corporate Events</a></li>
-                      <li><a href="#">Private Parties &amp; Weddings</a></li>
-                      <li><a href="#">Forums &amp; Arenas</a></li>
-                      <li><a href="#">Hospitals, Charity Events &amp; Birthdays</a></li>
-                      <li><a href="#">Country Clubs &amp; Golf Courses</a></li>
-                      <li><a href="#">Parking Lot Management</a></li>
-                      <li><a href="#">Grand Openings</a></li>
-                      <li><a href="#">Hotels, Night Clubs &amp; Bars</a></li>
-                      <li><a href="#">Residential Building Park</a></li>
-                    </ul>
-                  </li>
-
-                  <li>
-                    <ul class="list">
-                      <li><a href="#">Private Parties &amp; Weddings</a></li>
-                      <li><a href="#">Forums &amp; Arenas</a></li>
-                      <li><a href="#">Hospitals, Charity Events &amp; Birthdays</a></li>
-                      <li><a href="#">Country Clubs &amp; Golf Courses</a></li>
-                      <li><a href="#">Parking Lot Management</a></li>
-                      <li><a href="#">Grand Openings</a></li>
-                      <li><a href="#">Hotels, Night Clubs &amp; Bars</a></li>
-                      <li><a href="#">Residential Building Park</a></li>
-                    </ul>
-                  </li>
+                 
                 </ul>
                 <!-- END RD Navbar Megamenu -->
               <span class="rd-navbar-submenu-toggle"></span></li>
@@ -92,41 +67,19 @@
                 <a href="#">About</a>
 
                 <!-- RD Navbar Dropdown -->
-                <ul class="rd-navbar-dropdown">
-                  <li>
-                    <a href="#">Price List</a>
-                  </li>
-                  <li>
-                    <a href="#">Testimonials</a>
-                  </li>
-                  <li class="rd-navbar--has-dropdown rd-navbar-submenu">
-                    <a href="#">Services</a>
-                    <!-- RD Navbar Dropdown -->
-                    <ul class="rd-navbar-dropdown">
-                      <li><a href="#">XX Service</a></li>
-                      <li><a href="#">Garage Management</a></li>
-                      <li><a href="#">Lot Management</a></li>
-                      <li><a href="#">Shuttle Service</a></li>
-                    </ul>
-                    <!-- END RD Navbar Dropdown -->
-                  <span class="rd-navbar-submenu-toggle"></span></li>
-                </ul>
+               
                 <!-- END RD Navbar Dropdown -->
               <span class="rd-navbar-submenu-toggle"></span></li>
               <li>
                 <a href="#">Services</a>
               </li>
-              <li>
-                <a href="#">News</a>
-              </li>
-              <li>
-                <a href="#">Contacts</a>
-              </li>
+              
+              
               <li>
                 <a href="{{ route('login') }}">Login</a>
               </li>
               <li>
-                <a href="{{ route('register') }}">Register</a>
+                <a href="{{ route('register') }}">Sign Up</a>
               </li>
               <li>
                 <a href="#">Download App</a>
@@ -161,76 +114,29 @@
               <li class="active rd-navbar--has-megamenu rd-navbar-submenu">
                 <a href="#">Home</a>
                 <!-- RD Navbar Megamenu -->
-                <ul class="rd-navbar-megamenu">
-                  <li>
-                    <ul class="list">
-                      <li><a href="#">High Profile Corporate Events</a></li>
-                      <li><a href="#">Private Parties &amp; Weddings</a></li>
-                      <li><a href="#">Forums &amp; Arenas</a></li>
-                      <li><a href="#">Hospitals, Charity Events &amp; Birthdays</a></li>
-                      <li><a href="#">Country Clubs &amp; Golf Courses</a></li>
-                      <li><a href="#">Parking Lot Management</a></li>
-                      <li><a href="#">Grand Openings</a></li>
-                      <li><a href="#">Hotels, Night Clubs &amp; Bars</a></li>
-                      <li><a href="#">Residential Building Park</a></li>
-                    </ul>
-                  </li>
-
-                  <li>
-                    <ul class="list">
-                      <li><a href="#">Private Parties &amp; Weddings</a></li>
-                      <li><a href="#">Forums &amp; Arenas</a></li>
-                      <li><a href="#">Hospitals, Charity Events &amp; Birthdays</a></li>
-                      <li><a href="#">Country Clubs &amp; Golf Courses</a></li>
-                      <li><a href="#">Parking Lot Management</a></li>
-                      <li><a href="#">Grand Openings</a></li>
-                      <li><a href="#">Hotels, Night Clubs &amp; Bars</a></li>
-                      <li><a href="#">Residential Building Park</a></li>
-                    </ul>
-                  </li>
-                </ul>
+                
                 <!-- END RD Navbar Megamenu -->
               <span class="rd-navbar-submenu-toggle"></span></li>
               <li class="rd-navbar--has-dropdown rd-navbar-submenu">
                 <a href="#">About</a>
 
                 <!-- RD Navbar Dropdown -->
-                <ul class="rd-navbar-dropdown">
-                  <li>
-                    <a href="#">Price List</a>
-                  </li>
-                  <li>
-                    <a href="#">Testimonials</a>
-                  </li>
-                  <li class="rd-navbar--has-dropdown rd-navbar-submenu">
-                    <a href="#">Services</a>
-                    <!-- RD Navbar Dropdown -->
-                    <ul class="rd-navbar-dropdown">
-                      <li><a href="#">XX Service</a></li>
-                      <li><a href="#">Garage Management</a></li>
-                      <li><a href="#">Lot Management</a></li>
-                      <li><a href="#">Shuttle Service</a></li>
-                    </ul>
-                    <!-- END RD Navbar Dropdown -->
-                  <span class="rd-navbar-submenu-toggle"></span></li>
-                </ul>
+               
                 <!-- END RD Navbar Dropdown -->
               <span class="rd-navbar-submenu-toggle"></span></li>
               <li>
                 <a href="#">Services</a>
               </li>
-              <li>
-                <a href="#">News</a>
-              </li>
-              <li>
-                <a href="#">Contacts</a>
-              </li>
+             
               <li>
                 <a href="{{ route('login') }}">Login</a>
               </li>
               <li>
-                <a href="{{ route('register') }}">Register</a>
+                <a href="{{ route('register') }}">Sign Up</a>
               </li>
+              <li>
+                <a href="#">Download App</a>
+              </li>  
             </ul>
             <!-- END RD Navbar Nav -->
           </div>
@@ -244,8 +150,8 @@
           <div class="col-xs-12">
             <h2 class="text-primary">
               <span class="heading-4">Let your car stay with</span>
-              <span>our parking</span>
-              <span class="heading-3">professionals</span>
+              <span>our secure </span>
+              <span class="heading-3">parking</span>
             </h2>
           </div>
 
@@ -292,12 +198,7 @@
           <div class="col-sm-preffix-4 col-sm-8">
             <div class="inset-2 bg-primary bg-wrap bg-wrap-sm-smaller bg-wrap-md-stretch-left top-level">
               <p>
-                Our XX Company is one of the fastest growing and most successful XX parking companies, we can
-                quickly and professionally fulfill all of your parking requirements, whether it's for a public or
-                business event, for a private, home party or an ongoing commercial contract basis. We provide custom
-                quotes at reasonable and competitive prices. We are fully insured with a reputable insurance company and
-                have our insurance agent available to confirm coverage and answer any questions you may have regarding
-                our policy.
+                We can  quickly and professionally fulfill all of your parking requirements.
               </p>
             </div>
           </div>
@@ -442,7 +343,7 @@
                 <p><q>Thanks a lot for the quick response. I was really impressed, your solution is excellent!! Your
                   competence is justified!!</q></p>
 
-                <p><cite><a href="#">Adam</a></cite></p>
+                <p><cite><a href="#">Mr. Abul Hasheem</a></cite></p>
               </blockquote></div><div class="owl-item active" style="width: 373.333px; margin-right: 25px;"><blockquote class="quote">
                 <p><q>Hi, guys! You’ve solved my problem in no time! Your efficient services and customer care are
                   second to none! I am very happy! I will surely share my experience with my friends!</q></p>
